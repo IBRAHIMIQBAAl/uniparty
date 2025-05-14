@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Faizan",
+    "description": "Faizan Tu hai hi gandu ye aisi shakal bana ke laptop ke samne baitha hota hai jaise processor uska rishtedaar ho aur RAM ne uska qarza maar liya ho. Bug usko dekh ke kehta hai, 'bhai main hi galat hoon ya tu system error hai?'",
+    "character": "The Gandu of all the Time"
+  },
+  {
+    "name": "Zubair",
+    "description": "Zubair itna intelligent hai ke compiler bhi usse permission maangta hai run hone se pehle. Lekin zindagi ke bugs usse bhi handle nahi hote.",
+    "character": "The Code Whisperer"
+  },
+  {
+    "name": "Ammad",
+    "description": "Class mein hamesha late lekin notes uske encyclopedia hote hain. Pata nahi notes likhta hai ya Wikipedia chalata hai — aur har dafa muft ka burger dhundh leta hai.",
+    "character": "The Stylish Scholar"
+  },
+  {
+    "name": "Afaq",
+    "description": "Har waqt chup lekin sab kaam isse pehle kar leta hai. Campus ke andar Google Maps chalana band karo, Afaq se pucho shortcut.",
+    "character": "The Silent Navigator"
+  },
+  {
+    "name": "Arif",
+    "description": "Arif aisi explanation deta hai ke professors bhi usse notes lete hain. Har shakhs ko impress karne ka license mila hua hai jaise MI6 ka agent ho.",
+    "character": "The Universal Translator"
+  },
+  {
+    "name": "Basit",
+    "description": "Basit ke paas wo gadgets hote hain jo market mein aaye hi nahi. Assignment dekh ke lagta hai launch event ho raha hai, product nahi.",
+    "character": "The Tech Oracle"
+  },
+  {
+    "name": "Ahad",
+    "description": "Hamesha coffee ke sath chipka rehta hai. Kehne ko kehta hai 'maine kuch nahi parha' — lekin GPA uska Harvard ka rishtedaar lagta hai.",
+    "character": "The Caffeinated Genius"
+  },
+  {
+    "name": "Moez",
+    "description": "Group project ka Modi — sab control mein rakhta hai. Color-coded schedule dekh ke lagta hai bullet journal ka influencer hai.",
+    "character": "The Organization Wizard"
+  },
+  {
+    "name": "Yousouf",
+    "description": "Wo banda jo woh sawaal poochta hai jo sabke zehan mein hota hai lekin bolne ki himmat nahi hoti. Aur har professor ko 'sir' bolta hai, gender chhoro.",
+    "character": "The Fearless Inquirer"
+  },
+  {
+    "name": "Shoaib",
+    "description": "Iske bag mein snack, power bank, charger, duct tape — har cheez milti hai. Zombie apocalypse aaye toh Shoaib ke bag mein chhup jao.",
+    "character": "The Prepared Survivor"
+  },
+  {
+    "name": "Zain Kazmi",
+    "description": "Zain woh banda hai jo har department ki farewell mein hota hai, khud pata nahi kis department ka hai. Jaise campus ka Ranveer Singh ho.",
+    "character": "The Campus Celebrity"
+  },
+  {
+    "name": "Bilal Ibex",
+    "description": "Har assignment art gallery ka piece lagta hai. Uski presentation pe log kharay ho ke taaliyan bajate hain, marks secondary hote hain.",
+    "character": "The Renaissance Student"
+  },
+  {
+    "name": "Mohsin Brother",
+    "description": "Ye banda wo hai jo sab ki help karta hai lekin khud kabhi help nahi maangta. Memory aisi ke lecture slides uske DNA ka part hain.",
+    "character": "The Dependable Ally"
+  },
+  {
+    "name": "Burhan Hashimi",
+    "description": "Debate ka aisa master ke professor bhi haar jaate hain. Har baat ka counter hota hai — shayad court mein born hua tha.",
+    "character": "The Master Debater"
+  },
+  {
+    "name": "Obaid Arshad",
+    "description": "Study session ka naam hota hai, lekin party hoti hai. Notes itne mashhoor hain ke dusre departments mein photocopy hoti hai.",
+    "character": "The Educational Entertainer"
+  },
+  {
+    "name": "Arman Ahmad",
+    "description": "Projector kharab ho, mouse na chale — banda duct tape aur paper clip se NASA ka shuttle bana de.",
+    "character": "The Resourceful Engineer"
+  },
+  {
+    "name": "Wali Khan",
+    "description": "Wali push-up karte hue calculus samjha deta hai. Physical aur intellectual dono ka hybrid model.",
+    "character": "The Physical Intellect"
+  },
+  {
+    "name": "Hamza Ikhlaq",
+    "description": "Statistics ka lecture bhi stand-up comedy lagta hai jab ye bolta hai. Notes padho toh Hansna zaroori hai.",
+    "character": "The Comic Scholar"
+  },
+  {
+    "name": "Haroon",
+    "description": "Casual baat bhi kare toh existential crisis de deta hai. Har conversation ka end hota hai ‘lekin kya hum waqai real hain?’",
+    "character": "The Digital Philosopher"
+  },
+  {
+    "name": "Waleed",
+    "description": "Teen startups, chaar freelance clients aur GPA bhi sahi — banda hai ya Elon Musk ka junior?",
+    "character": "The Entrepreneurial Dynamo"
+  },
+  {
+    "name": "Obaid Hashmi",
+    "description": "Cafeteria ka Gordon Ramsay. Har bite ka review deta hai — aur har snack ka GPS location maloom hai.",
+    "character": "The Culinary Critic"
+  },
+  {
+    "name": "Muaz Iqbal",
+    "description": "20-page ka paper ek raat mein likhta hai aur 'A' le aata hai. Deadline ke saath dosti rakh rakhi hai.",
+    "character": "The Pressure Performer"
+  },
+  {
+    "name": "Sheraz",
+    "description": "Lab goggles pehne hue bhi runway model lagta hai. Har class uska fashion show hai, subject kuch bhi ho.",
+    "character": "The Campus Trendsetter"
+  },
+  {
+    "name": "Nabeel",
+    "description": "Pehle teen seconds mein gaana pehchaan leta hai. Har subject ka apna playlist bana ke rakha hai.",
+    "character": "The Melodic Mastermind"
+  },
+  {
+    "name": "Bilal Ikram",
+    "description": "Ye society Kaliya Bohat he .",
+    "character": "The Socially desaster"
+  },
+  {
+    "name": "Burhan",
+    "description": "Sports ka data scientist. Har match ka score yaad, aur apne team ke liye Excel charts banata hai.",
+    "character": "The Athletic Analyst"
+  },
+  {
+    "name": "Abdul Hameed",
+    "description": "Coding problem ko historical war se relate karta hai. Debugging uske liye Cold War ka mission hota hai.",
+    "character": "The Chronological Coder"
+  },
+  {
+    "name": "Ibrahim",
+    "description": "Finals week mein bhi Buddha ki tarah peaceful hota hai. Debugging mein yoga jaise calm hota hai.",
+    "character": "The Serene Troubleshooter"
+  },
+  {
+    "name": "Sher Afghan",
+    "description": "Har weekend pe aisi story hoti hai jo professor bhi digest nahi kar sakta. Theory ko practically jungle mein test karta hai.",
+    "character": "The Academic Adventurer"
+  },
+  {
+    "name": "Muzamil Mushtaq",
+    "description": "Code aisa clean ke professors usse textbook mein daalna chahein. Har function ke sath love letter jaisi documentation.",
+    "character": "The Precision Programmer"
+  },
+  {
+    "name": "Abdul Rauf",
+    "description": "Har naye student ka unofficial mentor. Concepts memes se samjhaata hai — aur samajh bhi aa jaate hain!",
+    "character": "The Meme Mentor"
+  },
+  {
+    "name": "Default Student",
+    "description": "Ye banda real bhi hai ya myth — koi confirm nahi kar saka. Har class mein virtually tha even before it was a trend.",
+    "character": "The Campus Legend"
+  }
+]

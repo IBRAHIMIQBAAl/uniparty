@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Freshman Orientation",
+    "description": "First day at FAST National University when nobody knew where any classroom was. Muhammad Zubair was already helping everyone navigate the campus.",
+    "date": "September 2020",
+    "type": "image",
+    "url": "/assets/m1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "First Programming Competition",
+    "description": "The first time we competed as a team. Ammad stayed up all night to solve that one algorithm problem.",
+    "date": "March 2021",
+    "type": "image",
+    "url": "https://images.unsplash.com/photo-1542626991-cbc4e32524cc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1496&q=80"
+  },
+  {
+    "id": 3,
+    "title": "Finals Week Survival",
+    "description": "3 AM in the FAST library. Everyone running on caffeine while Afaq somehow remained calm and organized throughout.",
+    "date": "December 2021",
+    "type": "image",
+    "url": "/assets/m3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Hackathon Victory",
+    "description": "When our team won the national hackathon. Arif's presentation skills saved the day!",
+    "date": "February 2022",
+    "type": "image",
+    "url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1510&q=80"
+  },
+  {
+    "id": 5,
+    "title": "FAST Tech Fest",
+    "description": "The annual tech festival where Basit's robot stole the show and we all celebrated with late-night shawarmas.",
+    "date": "November 2022",
+    "type": "image",
+    "url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+  },
+  {
+    "id": 6,
+    "title": "Cricket Tournament",
+    "description": "The inter-department cricket tournament where Bilal Ibex hit that legendary six in the final over.",
+    "date": "March 2023",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  },
+  {
+    "id": 7,
+    "title": "Midnight Food Run",
+    "description": "When Moez convinced everyone to drive to Chai Wala at 2 AM during project week and we brainstormed our final project there.",
+    "date": "April 2023",
+    "type": "image",
+    "url": "/assets/m4.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Project Exhibition",
+    "description": "Final year project exhibition where Zain Kazmi's team built that impressive AI system that got attention from industry professionals.",
+    "date": "May 2024",
+    "type": "image",
+    "url": "https://images.unsplash.com/photo-1540317580384-e5d43867caa6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+  },
+  {
+    "id": 9,
+    "title": "Last Lecture",
+    "description": "The emotional last lecture where Yousouf asked that question that made even the strictest professor laugh.",
+    "date": "May 2024",
+    "type": "image",
+    "url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+  },
+  {
+    "id": 10,
+    "title": "Pre-Graduation Meetup",
+    "description": "Planning session for the bachelor's party where Shoaib came prepared with a full presentation and budget spreadsheet.",
+    "date": "June 2024",
+    "type": "image",
+    "url": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+  },
+  {
+    "id": 11,
+    "title": "Database All-Nighter",
+    "description": "When Mohsin Brother helped everyone fix their database projects the night before submission.",
+    "date": "November 2022",
+    "type": "image",
+    "url": "https://images.unsplash.com/photo-1623282033815-40b05d96c903?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+  },
+  {
+    "id": 12,
+    "title": "Farewell Planning Committee",
+    "description": "Burhan Hashimi leading the farewell planning committee with his incredible organizational skills.",
+    "date": "April 2024",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/6zo-vqb8w0c"
+  }
+] 
