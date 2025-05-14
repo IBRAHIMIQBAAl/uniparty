@@ -13,9 +13,14 @@ const StudentCheck = () => {
   const ticketRef = useRef(null);
 
   // Generate a random ticket number
-  const generateTicketNumber = () => {
-    return 'BP-' + Math.floor(1000 + Math.random() * 9000) + '-2024';
-  };
+  // Using React state to track the counter
+const [ticketCounter, setTicketCounter] = useState(2701);
+
+const generateTicketNumber = () => {
+  const ticketNumber = 'BP-' + ticketCounter + '-2025';
+  setTicketCounter(prevCounter => prevCounter + 1);
+  return ticketNumber;
+}
 
   // Handle clicks outside the suggestions box
   useEffect(() => {
