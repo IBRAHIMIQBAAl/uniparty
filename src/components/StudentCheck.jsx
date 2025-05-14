@@ -296,7 +296,7 @@ const StudentCheck = () => {
                           <div className="ticket-header flex justify-between items-start mb-3">
                             <div>
                               <h3 className="ticket-title font-bold text-lg text-gray-800">Official Ticket</h3>
-                              <p className="ticket-subtitle text-primary text-xs font-medium">Bachelor's Party 2024</p>
+                              <p className="ticket-subtitle text-primary text-xs font-medium">Bachelor's Party 2025</p>
                             </div>
                             <div className="ticket-emoji text-3xl">🎓</div>
                           </div>
@@ -312,11 +312,11 @@ const StudentCheck = () => {
                             </div>
                             <div>
                               <p className="ticket-detail-label text-gray-500">Date</p>
-                              <p className="ticket-detail-value font-medium text-gray-800">June 15, 2024</p>
+                              <p className="ticket-detail-value font-medium text-gray-800">May 16, 2025</p>
                             </div>
                             <div>
                               <p className="ticket-detail-label text-gray-500">Location</p>
-                              <p className="ticket-detail-value font-medium text-gray-800">Royal Banquet Hall</p>
+                              <p className="ticket-detail-value font-medium text-gray-800">Dada Farm House</p>
                             </div>
                           </div>
                           
