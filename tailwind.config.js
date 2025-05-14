@@ -1,4 +1,11 @@
 /** @type {import('tailwindcss').Config} */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu&display=swap');
+
+.font-urdu {
+  font-family: 'Noto Nastaliq Urdu', serif;
+  line-height: 2;
+  direction: rtl;
+}
 export default {
   content: [
     "./index.html",
