@@ -8,6 +8,7 @@ const StudentHistory = () => {
   const [isSearching, setIsSearching] = useState(false);
   const [suggestions, setSuggestions] = useState([]);
   const [showSuggestions, setShowSuggestions] = useState(false);
+  const [showPoetry, setShowPoetry] = useState(false);
   const suggestionsRef = useRef(null);
   const inputRef = useRef(null);
   
@@ -61,6 +62,7 @@ const StudentHistory = () => {
   const findStudentHistoryByName = (studentName) => {
     setIsSearching(true);
     setStudentInfo(null);
+    setShowPoetry(false);
     
     // Simulate search delay
     setTimeout(() => {
@@ -227,9 +229,59 @@ const StudentHistory = () => {
                   {getCharacterEmoji(studentInfo.character)}
                 </motion.div>
                 
-                <blockquote className="text-gray-700 font-medium text-center text-lg leading-relaxed mt-5 px-2 py-2 font-urdu">
+                <blockquote className="text-gray-700 font-medium text-center text-lg leading-relaxed mt-5 px-2 py-2">
                   "{studentInfo.description}"
                 </blockquote>
+                
+                {/* Poetry Section */}
+                {studentInfo.poetry && (
+                  <motion.div
+                    initial={{ opacity: 0, y: 20 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ delay: 0.4 }}
+                    className="mt-8"
+                  >
+                    <motion.button
+                      whileHover={{ scale: 1.05 }}
+                      whileTap={{ scale: 0.95 }}
+                      onClick={() => setShowPoetry(!showPoetry)}
+                      className="flex items-center justify-center w-full mb-4 text-primary hover:text-primary-dark"
+                    >
+                      <span className="mr-2">{showPoetry ? 'Hide Poetry' : 'Show Poetry'}</span>
+                      <motion.svg
+                        animate={{ rotate: showPoetry ? 180 : 0 }}
+                        className="w-5 h-5"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        stroke="currentColor"
+                      >
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                      </motion.svg>
+                    </motion.button>
+                    
+                    <AnimatePresence>
+                      {showPoetry && (
+                        <motion.div
+                          initial={{ height: 0, opacity: 0 }}
+                          animate={{ height: 'auto', opacity: 1 }}
+                          exit={{ height: 0, opacity: 0 }}
+                          transition={{ duration: 0.3 }}
+                          className="overflow-hidden"
+                        >
+                          <div className="bg-white/80 backdrop-blur-sm p-6 rounded-lg border border-gray-200">
+                            <h4 className="text-center font-bold text-lg mb-4 text-primary">Special Poetry</h4>
+                            <div className="text-center font-urdu text-xl leading-relaxed whitespace-pre-line">
+                              {studentInfo.poetry}
+                            </div>
+                            <div className="mt-4 text-center text-sm text-gray-500">
+                              ~ Dedicated to {studentInfo.name} ~
+                            </div>
+                          </div>
+                        </motion.div>
+                      )}
+                    </AnimatePresence>
+                  </motion.div>
+                )}
                 
                 <div className="mt-8 flex justify-center space-x-4">
                   <motion.button
@@ -250,6 +302,7 @@ const StudentHistory = () => {
                     onClick={() => {
                       setName('');
                       setStudentInfo(null);
+                      setShowPoetry(false);
                     }}
                   >
                     <svg className="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
@@ -315,4 +368,4 @@ const StudentHistory = () => {
   );
 };
 
-export default StudentHistory; 
+export default StudentHistory;
