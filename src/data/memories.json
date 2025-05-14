@@ -5,7 +5,7 @@
     "description": "First day at FAST National University when nobody knew where any classroom was. Muhammad Zubair was already helping everyone navigate the campus.",
     "date": "September 2020",
     "type": "image",
-    "url": "/assets/m1.jpg"
+    "url": "./assets/m1.jpg"
   },
   {
     "id": 2,
