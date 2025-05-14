@@ -1,162 +1,194 @@
 [
   {
     "name": "Faizan",
-    "description": "Faizan Tu hai hi gandu ye aisi shakal bana ke laptop ke samne baitha hota hai jaise processor uska rishtedaar ho aur RAM ne uska qarza maar liya ho. Bug usko dekh ke kehta hai, 'bhai main hi galat hoon ya tu system error hai?'",
+    "description": "Faizan wo insan hai jo computer ke saamne aise ghoor ke dekhta hai jaise machine se rishtedaari ho. Bug usse dekh kar kehte hain, 'System error to hum hain ya tu hai?'",
+    "poetry": "Faizan ka laptop se hai rishta purana,\nCode likhta hai woh subah-o-shaam mastana,\nProcessor jaise ho koi apna rishtedaar,\nBug bhi hote hain uske darbaar se hairan.",
     "character": "The Gandu of all the Time"
   },
   {
     "name": "Zubair Gujjar",
-    "description": "Zubair itna intelligent hai ke compiler bhi usse permission maangta hai run hone se pehle. Lekin zindagi ke bugs usse bhi handle nahi hote.",
+    "description": "Zubair ki intelligence ka jalwa hai aisa ke compiler bhi ijazat mangta hai usse. Magar zindagi ke errors ko handle karna uske bas ki baat nahi.",
+    "poetry": "Zubair ka dimaag hai computer se bhi tez,\nCode whisper karta hai, har bug rahe pareshan,\nCompiler bhi ijazat mange chalney se pehle,\nMagar zindagi ke bugs hain uske liye imtehaan.",
     "character": "The Code Whisperer"
   },
   {
     "name": "Ammad Pervaiz",
-    "description": "Class mein hamesha late lekin notes uske encyclopedia hote hain. Pata nahi notes likhta hai ya Wikipedia chalata hai — aur har dafa muft ka burger dhundh leta hai.",
+    "description": "Class mein late aata hai magar notes uske encyclopedia jaise mukammal hote hain. Koi nahi jaanta woh notes banata hai ya Wikipedia chalata hai, lekin muft ka burger dhundne mein ustad hai.",
+    "poetry": "Ammad ke notes hain encyclopedia se kam nahi,\nWaqt pe aayen class mein ye mumkin nahi,\nWikipedia ya notes, koi jaane na farq,\nMuft ka burger dhundne mein hai ustaad bhi.",
     "character": "The Stylish Scholar"
   },
   {
     "name": "Affaq",
-    "description": "Har waqt chup lekin sab kaam isse pehle kar leta hai. Campus ke andar Google Maps chalana band karo, Afaq se pucho shortcut.",
+    "description": "Khamoshi se bhara hai magar har kaam dusron se pehle mukammal kar leta hai. Campus mein Google Maps ki zarurat nahi, bas Affaq se pooch lo shortcut ka.",
+    "poetry": "Khamoshi hai Affaq ki pehchan sabse bari,\nLekin har kaam kare woh sabse pehle hi,\nGoogle Maps campus mein hai bekaar bilkul,\nUsse pooch lo raaste, batayega har gali.",
     "character": "The Silent Navigator"
   },
   {
     "name": "Arif",
-    "description": "Arif aisi explanation deta hai ke professors bhi usse notes lete hain. Har shakhs ko impress karne ka license mila hua hai jaise MI6 ka agent ho.",
+    "description": "Arif ki explanation sunkar professors bhi notes lete hain. Har kisi ko impress karna uske liye itna aasan hai jaise woh MI6 ka koi agent ho.",
+    "poetry": "Arif ki zuban se nikle to ilm barse,\nProfessor bhi notes lein jab woh lecture kare,\nHar kisi ko impress karna hai uska hunar,\nJaise MI6 ke agent ka tareeqa ho ye.",
     "character": "The Universal Translator"
   },
   {
     "name": "Basit",
-    "description": "Basit ke paas wo gadgets hote hain jo market mein aaye hi nahi. Assignment dekh ke lagta hai launch event ho raha hai, product nahi.",
+    "description": "Basit ke paas wo technology hai jo abhi market mein aayi hi nahi. Uski assignment dekh kar lagta hai product launch ho raha hai, assignment nahi.",
+    "poetry": "Basit ke gadgets hain kal se aaj tak,\nMarket mein aaye na honge ab tak,\nAssignment uski product launch jaisi lage,\nTechnology ka hai woh sachcha aashiq.",
     "character": "The Tech Oracle"
   },
   {
     "name": "Ahad",
-    "description": "Hamesha coffee ke sath chipka rehta hai. Kehne ko kehta hai 'maine kuch nahi parha' — lekin GPA uska Harvard ka rishtedaar lagta hai.",
+    "description": "Coffee cup hamesha haath mein liye ghoomta hai. Kehta hai 'Maine kuch parha nahi' magar GPA uski Harvard students ko bhi sharminda kar de.",
+    "poetry": "Ahad ki coffee hai uska saathi hamesha,\nKehta hai parha nahi, ye hai uska nasha,\nHarvard ke students bhi ho jaayen sharmasar,\nJab dekhe uski GPA ka jalwa tamasha.",
     "character": "The Caffeinated Genius"
   },
   {
     "name": "Moeez Mazar",
-    "description": "Group project ka Modi — sab control mein rakhta hai. Color-coded schedule dekh ke lagta hai bullet journal ka influencer hai.",
+    "description": "Group project ka Modi hai, sab kuch control mein rakhta hai. Uski color-coded schedules dekh kar lagta hai koi bullet journal influencer ho.",
+    "poetry": "Moeez jab group project sambhale to kamal kare,\nSab control mein rakhe, har cheez sahi kare,\nColor-coded schedule hai uska kaam,\nOrganization ke fann mein hai woh bemisaal.",
     "character": "The Organization Wizard"
   },
   {
     "name": "Yousouf",
-    "description": "Wo banda jo woh sawaal poochta hai jo sabke zehan mein hota hai lekin bolne ki himmat nahi hoti. Aur har professor ko 'sir' bolta hai, gender chhoro.",
+    "description": "Woh sawal poochta hai jo sab ke zehan mein hote hain magar kisi ko poochne ki himmat nahi hoti. Har teacher ko 'sir' kehta hai, chahe gender kuch bhi ho.",
+    "poetry": "Yousouf ke sawal hain dil ki awaz,\nJo sab sochte par poochte nahin,\nHar teacher ko 'sir' kehne ka hai andaz,\nDar ke aage jeet hai uska yaqeen.",
     "character": "The Fearless Inquirer"
   },
   {
     "name": "Shoaib",
-    "description": "Iske bag mein snack, power bank, charger, duct tape — har cheez milti hai. Zombie apocalypse aaye toh Shoaib ke bag mein chhup jao.",
+    "description": "Uske bag mein har zaruri cheez milti hai - snacks, power bank, charger, duct tape. Zombie apocalypse aaye to Shoaib ke bag mein chhup jao.",
+    "poetry": "Shoaib ke bag mein duniya basi hai,\nSnack, charger, duct tape, kya nahi hai,\nZombie apocalypse agar aa jaye kabhi,\nUske bag mein panah lena hi aaqalmandi hai.",
     "character": "The Prepared Survivor"
   },
   {
     "name": "Zain Kazmi",
-    "description": "Zain woh banda hai jo har department ki farewell mein hota hai, khud pata nahi kis department ka hai. Jaise campus ka Ranveer Singh ho.",
+    "description": "Zain har department ki farewell mein maujood hota hai, lekin koi nahi jaanta ke woh khud kis department ka hai. Campus ka Ranveer Singh hai woh.",
+    "poetry": "Zain har farewell pe nachta hai khub,\nKisi ko na pata woh hai kis department ka,\nCampus ka Ranveer Singh hai mahboob,\nHar mehfil mein hai uska jalwa barqarar.",
     "character": "The Campus Celebrity"
   },
   {
     "name": "Bilal Ibex",
-    "description": "Har assignment art gallery ka piece lagta hai. Uski presentation pe log kharay ho ke taaliyan bajate hain, marks secondary hote hain.",
+    "description": "Har assignment uski art gallery ka masterpiece lagti hai. Uski presentation dekhkar log khare ho ke taliyan bajate hain, marks to secondary hain.",
+    "poetry": "Bilal ki assignment hai fankari ka namuna,\nArt gallery mein rakho to bane sheh-para,\nPresentation pe taliyan baje zor se,\nMarks se zyada hai uska andaz nyara.",
     "character": "The Renaissance Student"
   },
   {
     "name": "Mohsin",
-    "description": "Ye banda wo hai jo sab ki help karta hai lekin khud kabhi help nahi maangta. Memory aisi ke lecture slides uske DNA ka part hain.",
+    "description": "Har kisi ki madad karta hai magar khud kabhi help nahi mangta. Memory itni tez hai ke lecture slides uske DNA ka hissa ban gaye hain.",
+    "poetry": "Mohsin ki madad pe sab hain yaqeen karte,\nKhud kabhi na mange woh kisi se madad,\nLecture slides hain DNA mein uske shamil,\nYaaddasht mein uski na koi hai had.",
     "character": "The Dependable Ally"
   },
   {
     "name": "Burhan Hashimi",
-    "description": "Debate ka aisa master ke professor bhi haar jaate hain. Har baat ka counter hota hai — shayad court mein born hua tha.",
+    "description": "Debate ka aisa master hai ke professors bhi haar maan lete hain. Har baat ka counter argument rakhta hai, jaise court mein paida hua ho.",
+    "poetry": "Burhan ki baaton mein hai daleel bemisaal,\nProfessor bhi haar maan lein debate mein uske aage,\nHar baat ka jawab hai taiyar har waqt,\nCourt mein paida hua tha woh, yahi hai khayal.",
     "character": "The Master Debater"
   },
   {
     "name": "Obaid Arshad",
-    "description": "Study session ka naam hota hai, lekin party hoti hai. Notes itne mashhoor hain ke dusre departments mein photocopy hoti hai.",
+    "description": "Study session ka naam hota hai, lekin party ban jaati hai. Notes itne famous hain ke doosre departments mein photocopy hote phirte hain.",
+    "poetry": "Obaid ke study session mein hai party ka maza,\nIlm bhi mile aur mehfil bhi saje,\nNotes uske hain itne mashhoor har jagah,\nDepartments mein copy hote, har koi chahe.",
     "character": "The Educational Entertainer"
   },
   {
     "name": "Arman Ahmad",
-    "description": "Projector kharab ho, mouse na chale — banda duct tape aur paper clip se NASA ka shuttle bana de.",
+    "description": "Projector kharab ho ya mouse na chale, duct tape aur paper clip se NASA ka shuttle bana deta hai. Jugaad ka ustad hai woh.",
+    "poetry": "Arman ke haathon mein hai jaadu aisa,\nTute projector ko kar de changa foran,\nDuct tape, paper clip se banaye jadeed,\nNASA bhi hire kare usko, itna hai wohan.",
     "character": "The Resourceful Engineer"
   },
   {
     "name": "Wali Khan",
-    "description": "Wali push-up karte hue calculus samjha deta hai. Physical aur intellectual dono ka hybrid model.",
+    "description": "Push-up karte huye calculus problems solve karta hai. Physical aur intellectual fitness dono ka master hai.",
+    "poetry": "Wali Khan push-up kare aur solve kare calculus,\nJism aur dimagh dono hain fit uske pass,\nPhysical aur intellectual dono mein hai maahir,\nIss hybrid model ka har koi hai fan khaas.",
     "character": "The Physical Intellect"
   },
   {
     "name": "Hamza Ikhlaq",
-    "description": "Statistics ka lecture bhi stand-up comedy lagta hai jab ye bolta hai. Notes padho toh Hansna zaroori hai.",
+    "description": "Statistics ka lecture bhi stand-up comedy ban jata hai jab woh bolna shuru kare. Notes padhte waqt hasna laazmi hai.",
+    "poetry": "Hamza jab statistics parhaaye class mein,\nStand-up comedy ban jaaye har lecture uska,\nNotes padhein to hansi aaye be-ikhtyar,\nMizah aur ilm ka hai woh sangam anokha.",
     "character": "The Comic Scholar"
   },
   {
     "name": "Haroon",
-    "description": "Casual baat bhi kare toh existential crisis de deta hai. Har conversation ka end hota hai ‘lekin kya hum waqai real hain?’",
+    "description": "Casual baat bhi existential crisis mein badal deta hai. Har guftagu ka anjaam yahi hota hai ke 'kya hum asal mein haqiqi hain?'",
+    "poetry": "Haroon se baat karo to sochne lago zindagi ke raaz,\nCasual guftagu bhi ho jaaye falsafa-e-hayat,\nHar conversation ka anjaam hai yehi sawal,\n'Kya hum asal mein haqiqi hain?' yahi hai uski baat.",
     "character": "The Digital Philosopher"
   },
   {
     "name": "Waleed",
-    "description": "Teen startups, chaar freelance clients aur GPA bhi sahi — banda hai ya Elon Musk ka junior?",
+    "description": "Teen startups, chaar freelance clients aur perfect GPA - koi aam student nahi, Elon Musk ka junior version hai woh.",
+    "poetry": "Waleed ke startups teen aur clients chaar hain,\nGPA bhi perfect, har kaam mein hai woh kamyab,\nElon Musk sa junoon hai uske andar,\nEntrepreneur ka perfect namuna hai be-hisaab.",
     "character": "The Entrepreneurial Dynamo"
   },
   {
     "name": "Obaid Hashmi",
-    "description": "Cafeteria ka Gordon Ramsay. Har bite ka review deta hai — aur har snack ka GPS location maloom hai.",
+    "description": "Cafeteria ka Gordon Ramsay hai. Har bite ka detailed review deta hai aur campus mein har snack ki location usse behtar koi nahi jaanta.",
+    "poetry": "Obaid Hashmi cafeteria mein hai Ramsay jaisa,\nHar bite ka review de khane walon ko,\nSnacks ki location bataye har jagah ki,\nCulinary critic hai woh college ka sachcha.",
     "character": "The Culinary Critic"
   },
   {
     "name": "Muaz Iqbal",
-    "description": "20-page ka paper ek raat mein likhta hai aur 'A' le aata hai. Deadline ke saath dosti rakh rakhi hai.",
+    "description": "20-page ka research paper ek raat mein likh ke 'A' grade hasil karta hai. Deadline ke saath dosti ho gayi hai uski.",
+    "poetry": "Muaz ki qalam se nikle 20 page ek raat mein,\n'A' grade hasil kare woh har baar yakin se,\nDeadline hai uski dost purani,\nPressure mein perform kare woh kamaal se.",
     "character": "The Pressure Performer"
   },
   {
     "name": "Sheraz",
-    "description": "Lab goggles pehne hue bhi runway model lagta hai. Har class uska fashion show hai, subject kuch bhi ho.",
+    "description": "Lab goggles pehne huye bhi runway model jaisa lagta hai. Har class uske liye fashion show hai, subject koi bhi ho.",
+    "poetry": "Sheraz lab mein bhi lage model runway ka,\nGoggles pehne fashion icon ban jaaye,\nHar class hai uske liye fashion show,\nTrendsetter campus ka, har koi pehchane.",
     "character": "The Campus Trendsetter"
   },
   {
     "name": "Nabeel",
-    "description": "Pehle teen seconds mein gaana pehchaan leta hai. Har subject ka apna playlist bana ke rakha hai.",
+    "description": "Teen seconds mein koi bhi gaana pehchan leta hai. Har subject ke liye alag playlist banaya hai usne.",
+    "poetry": "Nabeel ke kaan sunein teen second mein gaana,\nPehchan le melody, artist, album ka naam,\nHar subject ke liye playlist hai alag taiyar,\nMusiqui uski rooh mein hai, ye hai uska kaam.",
     "character": "The Melodic Mastermind"
   },
   {
     "name": "Bilal Ikram",
-    "description": "Ye society Kaliya Bohat he Zahreela Snake hai is ko zubair nai hath pakar kr chalna sikhaya tha our ab ye sab ka pakarta hai  .",
+    "description": "Society mein aisa hai jaise zahreela saanp ho, shuru mein Zubair ne haath pakad ke chalna sikhaya tha, ab khud sabka haath pakadta hai.",
+    "poetry": "Bilal Ikram society mein phirta hai aise,\nJaise zahreela saanp, chaal main jehrili,\nZubair ne sikhaya tha chalna pehle usse,\nAb sabka pakdey haath, ban ke social khilari.",
     "character": "The Socially desaster"
   },
   {
     "name": "Burhan",
-    "description": "Sports ka data scientist. Har match ka score yaad, aur apne team ke liye Excel charts banata hai.",
+    "description": "Sports ka data scientist hai. Har match ka score yaad rakhta hai aur apni team ke liye Excel charts banata rehta hai.",
+    "poetry": "Burhan ke dimagh mein hai sports ka data,\nHar match ka score, har player ka record,\nExcel charts banaye team ke liye woh,\nAnalyst hai aisa, jisse har team kare support.",
     "character": "The Athletic Analyst"
   },
   {
     "name": "Abdul Hameed",
-    "description": "Coding problem ko historical war se relate karta hai. Debugging uske liye Cold War ka mission hota hai.",
+    "description": "Coding problems ko historical wars se relate karta hai. Debugging uske liye Cold War ka top secret mission hai.",
+    "poetry": "Abdul Hameed jab code likhe to tareekh ho saath,\nHar problem ko war se kare relate bemisaal,\nDebugging ho ya error, Cold War sa mission hai,\nChronological coder hai woh, history ka misaal.",
     "character": "The Chronological Coder"
   },
   {
     "name": "Ibrahim",
-    "description": "Finals week mein bhi Buddha ki tarah peaceful hota hai. Debugging mein yoga jaise calm hota hai.",
+    "description": "Finals week mein bhi Buddha ki tarah shant rehta hai. Debugging karte waqt yoga master jaisa calm hota hai.",
+    "poetry": "Ibrahim ko dekho finals ke hafton mein,\nBuddha sa sukoon hai uske chehre par,\nDebugging kare to yogic calm ho jaise,\nStress ka koi asar nahi hai jeevan bhar.",
     "character": "The Serene Troubleshooter"
   },
   {
     "name": "Sher Afghan",
-    "description": "Har weekend pe aisi story hoti hai jo professor bhi digest nahi kar sakta. Theory ko practically jungle mein test karta hai.",
+    "description": "Har weekend ki aisi kahani sunata hai jo professor bhi yakin nahi kar sakte. Theory ko jungle mein practically test karta hai.",
+    "poetry": "Sher Afghan ke weekend adventures hain ajeeb,\nProfessors bhi sun ke ho jaayen hairaan,\nTheory ko jungle mein test kare practical,\nAcademic adventurer hai woh be-misaal.",
     "character": "The Academic Adventurer"
   },
   {
     "name": "Muzamil Mushtaq",
-    "description": "Code aisa clean ke professors usse textbook mein daalna chahein. Har function ke sath love letter jaisi documentation.",
+    "description": "Code itna clean likhta hai ke professors textbooks mein shamil karna chahte hain. Har function ke saath love letter jaisi documentation likhta hai.",
+    "poetry": "Muzamil ka code hai itna clean aur saaf,\nTextbook mein chaape professor har saal,\nFunction ke saath documentation likhe pyaar se,\nPrecision programmer hai woh bemisal.",
     "character": "The Precision Programmer"
   },
   {
     "name": "Abdul Rauf",
-    "description": "Har naye student ka unofficial mentor. Concepts memes se samjhaata hai — aur samajh bhi aa jaate hain!",
+    "description": "Har naye student ka unofficial mentor ban jata hai. Concepts ko memes ke zariye samjhata hai aur ajib baat yeh ke sab samajh jaate hain!",
+    "poetry": "Abdul Rauf har naye student ka bane mentor,\nIlm ko memes se samjhaye har baar,\nConcepts difficult ho ya simple, farq na kare,\nMeme mentor hai woh, sabka madad-gaar.",
     "character": "The Meme Mentor"
   },
   {
     "name": "Default Student",
-    "description": "Ye banda real bhi hai ya myth — koi confirm nahi kar saka. Har class mein virtually tha even before it was a trend.",
+    "description": "Koi nahi janta ke yeh student asal mein hai bhi ya nahi. Har class mein virtually maujood tha jab yeh trend bhi nahi tha.",
+    "poetry": "Default Student hai ya myth, kaun jaane,\nKabhi dekha nahi, par attendance hai naam ka,\nVirtual presence thi jab trend nahi tha ye,\nCampus legend hai, raaz hai anjaan.",
     "character": "The Campus Legend"
   }
 ]
